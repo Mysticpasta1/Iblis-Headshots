@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "iblis_headshots",
+    "name": "Iblis Headshots",
+    "description": "Headshots mod",
+    "mcversion": "1.16.5",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Foghrye4, Mysticpasta1"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
